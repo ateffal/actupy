@@ -1,0 +1,2 @@
+# actupy
+Actuarial Python package.
